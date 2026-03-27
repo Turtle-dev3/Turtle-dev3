@@ -1,102 +1,40 @@
-<svg width="1200" height="200" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Noah Nyholm Bracher">
+<svg width="1200" height="180" viewBox="0 0 1200 180" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Noah Nyholm Bracher">
   <defs>
-    <!-- Background gradient -->
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0a0a0a"/>
-      <stop offset="100%" stop-color="#0d0d12"/>
-    </linearGradient>
-
-    <!-- Name gradient -->
-    <linearGradient id="nameGrad" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#00F0FF"/>
-      <stop offset="50%" stop-color="#a78bfa"/>
-      <stop offset="100%" stop-color="#00F0FF"/>
-    </linearGradient>
-
-    <!-- Glow filter -->
-    <filter id="glow" x="-20%" y="-60%" width="140%" height="220%">
-      <feGaussianBlur stdDeviation="6" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-
-    <!-- Subtle glow for lines -->
-    <filter id="lineGlow" x="-10%" y="-200%" width="120%" height="500%">
-      <feGaussianBlur stdDeviation="2" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-
-    <!-- Dot grid pattern -->
-    <pattern id="dots" x="0" y="0" width="24" height="24" patternUnits="userSpaceOnUse">
-      <circle cx="1" cy="1" r="0.8" fill="#1a1a2e"/>
+    <pattern id="dots" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="0.7" fill="#161616"/>
     </pattern>
-
-    <!-- Accent line gradient -->
-    <linearGradient id="lineGrad" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#0a0a0a"/>
-      <stop offset="30%" stop-color="#00F0FF"/>
-      <stop offset="70%" stop-color="#a78bfa"/>
-      <stop offset="100%" stop-color="#0a0a0a"/>
-    </linearGradient>
   </defs>
 
   <!-- Background -->
-  <rect width="1200" height="200" fill="url(#bg)"/>
-  <rect width="1200" height="200" fill="url(#dots)" opacity="0.6"/>
+  <rect width="1200" height="180" fill="#0a0a0a"/>
+  <rect width="1200" height="180" fill="url(#dots)"/>
 
-  <!-- Top border line -->
-  <line x1="0" y1="0" x2="1200" y2="0" stroke="url(#lineGrad)" stroke-width="1" opacity="0.4"/>
-
-  <!-- Bottom border line -->
-  <line x1="0" y1="199" x2="1200" y2="199" stroke="url(#lineGrad)" stroke-width="1" opacity="0.4"/>
-
-  <!-- Corner accents — top left -->
-  <polyline points="40,20 20,20 20,50" fill="none" stroke="#00F0FF" stroke-width="1.5" opacity="0.5"/>
-  <!-- Corner accents — top right -->
-  <polyline points="1160,20 1180,20 1180,50" fill="none" stroke="#a78bfa" stroke-width="1.5" opacity="0.5"/>
-  <!-- Corner accents — bottom left -->
-  <polyline points="40,180 20,180 20,150" fill="none" stroke="#a78bfa" stroke-width="1.5" opacity="0.5"/>
-  <!-- Corner accents — bottom right -->
-  <polyline points="1160,180 1180,180 1180,150" fill="none" stroke="#00F0FF" stroke-width="1.5" opacity="0.5"/>
-
-  <!-- Ambient glow blob behind name -->
-  <ellipse cx="600" cy="95" rx="320" ry="60" fill="#00F0FF" opacity="0.03"/>
-  <ellipse cx="600" cy="95" rx="200" ry="40" fill="#a78bfa" opacity="0.04"/>
+  <!-- Top + bottom border -->
+  <line x1="0" y1="0" x2="1200" y2="0" stroke="#1a1a1a" stroke-width="1"/>
+  <line x1="0" y1="179" x2="1200" y2="179" stroke="#1a1a1a" stroke-width="1"/>
 
   <!-- Name -->
   <text
     x="600" y="88"
     text-anchor="middle"
-    font-family="'Segoe UI', Inter, system-ui, sans-serif"
-    font-size="52"
-    font-weight="700"
-    letter-spacing="8"
-    fill="url(#nameGrad)"
-    filter="url(#glow)"
+    font-family="Inter, 'Segoe UI', system-ui, sans-serif"
+    font-size="46"
+    font-weight="600"
+    letter-spacing="6"
+    fill="#ffffff"
   >NOAH NYHOLM BRACHER</text>
 
-  <!-- Accent line below name -->
-  <line x1="300" y1="105" x2="900" y2="105" stroke="url(#lineGrad)" stroke-width="1" filter="url(#lineGlow)" opacity="0.8"/>
+  <!-- Divider line -->
+  <line x1="440" y1="106" x2="760" y2="106" stroke="#1a1a1a" stroke-width="1"/>
 
   <!-- Subtitle -->
   <text
-    x="600" y="138"
+    x="600" y="136"
     text-anchor="middle"
     font-family="'JetBrains Mono', 'Fira Code', monospace"
-    font-size="13"
+    font-size="12"
     font-weight="400"
     letter-spacing="3"
-    fill="#888888"
+    fill="#555555"
   >AI  ·  AUTOMATION  ·  STUDENT DEVELOPER @ STRUCT A/S</text>
-
-  <!-- Small decorative dots on accent line -->
-  <circle cx="300" cy="105" r="2.5" fill="#00F0FF" opacity="0.7"/>
-  <circle cx="900" cy="105" r="2.5" fill="#a78bfa" opacity="0.7"/>
-  <circle cx="600" cy="105" r="1.5" fill="#ffffff" opacity="0.3"/>
 </svg>
