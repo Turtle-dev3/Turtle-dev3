@@ -1,74 +1,98 @@
-<p align="center">
-  <img src="./banner.svg" width="100%" alt="Noah Nyholm Bracher">
-</p>
+# Noah Nyholm Bracher
 
-<br>
+`AI student` / `APIs & automation` / `Odense, Denmark`
 
-<p align="center">
-  <a href="https://turtle-dev3.github.io/CV/">
-    <img src="https://img.shields.io/badge/CV-111111?style=flat-square&logoColor=ffffff&logo=readthedocs&labelColor=111111" alt="CV">
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/noah-nyholm-987738149/">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=ffffff&labelColor=111111" alt="LinkedIn">
-  </a>
-  &nbsp;
-  <a href="mailto:noahnyholmb@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=ffffff&labelColor=111111" alt="Email">
-  </a>
-</p>
+<!-- Plain-text ASCII portrait, tuned for GitHub dark mode. -->
+```text
+                                        . ...
+                              .-=++:::--=-===-::-:.::-==+=-:..
+                          .:=*###+:................:::.::----==++.
+                        -=#*+=-..............::........:::....:-=++-.
+                    .::-=-:.   ........... ....:::....::--::::-:..::=-.
+                   -##+:.   .......... .... ......:::::::.::::::::::::::
+                  :+=-. ... ..:.........  ..  ........:::.....::::::-::.:.
+                 .-::..::::.......................:..::::::::::::::::::..:.
+                .*+:..::-:-:::...:::::::-++--:..::::..:--:::::..............
+                %#:.:.::-:::--=++*#%%%%%#%%@%#+====----:.................:.-.
+               -#..:..:-::+#%@@@@@@@@@@@@@@@@@@%###*****+=---:......... .:...
+               +- ..-=::-#@@@@@@@@@@@@@@@@@@@@@@@%%%%%#%%%##*+=-:......... ..
+               *:.::+=-=%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%%####*+=:.......
+              .*.:-===+#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%####***=-::....
+              .=.-==--*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%%####*++-::.::. ..
+               .-==--*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%###*+=:...:.. .
+               -+=-+@@%#%***++++===++##%@@@@@@@@@@@%##**###*##**##*+=:......
+               -==-=%##**####******++++**##**##*##*+==-:::::--:---=---:.....
+               :-::=**###%%@@@@@@%######%#***==++++****######*+=-:::---:....
+               #%++%**%###*++*==-:=*+*%%@#*%%#*=++*++*********##*+--+=--...
+              .%%=@@%*@@%##**%%*+*%#*#@@*+%@@@%=-*#+*##=-:-=::-+++++=-=-:.:.
+              .@-#@@@%#@@@@@@@@@@@%%@@@##@@@@%#*=+#%%%%%%%%##*+***##++++:.+-
+               %+@@@@@%%%@@@@@@@@@@@@%#%@@@@%***+=*%@@@@@@@@@@%%%*#+**+== :=
+               ##@@@@@@@%%%##%%#######@@@@@@@#**#+=*##%%@@@@@@%%%#*+*+===.-=
+               %#%@@@@@@@@@@@%@@@@@@@%@@@@@@@@**#*+*%###########***++====.+-
+               =#%@@@@@@@@@@@@@@@@@@@%*=+**++-:-====#%@@@@@@@@@@%##*++=-::*:
+               .*%@@@@@@@@@@@@@@@@@@@@#**##**+---=+##%%%%@@@@@%%#**+++=-::+
+               .=%@@@@@@@@@@%@@@@%@%###+*+++##*+==+*+*#%@@@%%%##*++++=-:.==
+               .-#@@@@@@@@@@@%#***#*##%%%#%%%%%#**+++===+###%%#++**++=::.+.
+               ..=#@@@@@@@@@#===+**###%#####*++*++==------+@@@#+#%*++-:.:-
+                .:#*#%%@@@@%*=+%@@@@@@@@@@%%%%%##**++*##*#%@%#+*##+=--..:
+                . -**#*%*%@#=*%@@@@@@@@@%%%%%%%#####*#%%-*@%#++++==-:..-
+                 . .+**+=*##***#%@@@@@@%%%%%%%%####**##*+-=**+-:-::. :-
+                  ::==+==****++###%%%@@@@@@@@@@%%%%#*++===--:-:::...-:
+                  .*##*--=+=++***%@#*%%%%%%%@%###**+==-:.:::::....:-.
+                   .#@@%*-.:-==+*##*#%##%%#**#**+=-=::-........::-:
+                     *%%@%#+::::--==+++++*#+=+==--:::.. ....:----:
+                     :@%%#@@%#+-::..::::::::::.:........::------.
+                      +*=+@%@@@@##+=-:............:::---=-====--:.
+         ...:::---=--==-+@@%@@@@@@@%%#*+====--=--=-===========----.........
+:--=============-+=:=-=-#@@%%@@@@@@@%%%####**++++++++++++++===----........::.::::.....
+==+-:-===-------++.-==+-#@@@%@@@@@@@@@@%%%%#######*****++++====-=-.....:..::::::::------
+--::-----==----++-.-==+-*@@@@@@@@@@@@@@@@@@@@%%%%%%###***+++===+=....:::..::::::--::--:-
+-::-----------+=-:::====-%@@@@@@@@@@@@@@@@@@@@@@@%%%%###**+++**-::::::::::::::------::--
+------------=+=:::--=====#%@@@@@@@@@@@@@@@@@@@@@@@@%%%%#####*+::::--:.::--::-------:----
+-----------===::::==:=====#@@@@@@@@@@@@@@@@@@@@@@@@@%%%%%%*=-:::-=-:.::---------=-------
+```
 
-<br>
-
-<!-- ASCII portrait -->
-<p align="center">
-  <img src="./portrait.svg" width="480" alt="ASCII portrait of Noah">
-</p>
-
----
-
-<sub>ABOUT</sub>
-
-AI student and student developer at **Struct A/S**, based in Odense, Denmark.
-I build APIs, automation pipelines, and tools — focused on systems that are clear, composable, and reliable.
-
----
-
-<sub>EXPERIENCE</sub>
-
-**Student Developer** · Struct A/S · `2025 — Present`
-
-**Shift Leader** · McDonald's · `Sep 2023 — Jul 2024`
-
----
-
-<sub>STACK</sub>
-
-<p>
-  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=ffffff" alt="Python">
-  <img src="https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk&logoColor=ffffff" alt="Java">
-  <img src="https://img.shields.io/badge/C%23-111111?style=flat-square&logo=dotnet&logoColor=ffffff" alt="C#">
-  <img src="https://img.shields.io/badge/Haskell-111111?style=flat-square&logo=haskell&logoColor=ffffff" alt="Haskell">
-  <img src="https://img.shields.io/badge/REST_API-111111?style=flat-square&logo=fastapi&logoColor=ffffff" alt="REST API">
-  <img src="https://img.shields.io/badge/n8n-111111?style=flat-square&logo=n8n&logoColor=ffffff" alt="n8n">
-</p>
-
----
-
-<sub>PROJECTS</sub>
-
-**Tone API** — REST API for tone-of-voice analysis. API key management, credit system, usage dashboard. `private`
-
-**[n8n-nodes-toneapi](https://github.com/Turtle-dev3/n8n-nodes-toneapi)** — Custom n8n community node that plugs Tone API into any automation workflow.
+[CV](https://turtle-dev3.github.io/CV/) · [LinkedIn](https://www.linkedin.com/in/noah-nyholm-987738149/) · [Email](mailto:noahnyholmb@gmail.com)
 
 ---
 
-<sub>EDUCATION</sub>
+### About
 
-BSc **Artificial Intelligence** · University of Southern Denmark (SDU) · `4th semester`
+I'm a 5th-semester Artificial Intelligence student at the University of Southern Denmark (SDU). I build APIs, automation workflows, and practical tools, with an interest in taking ideas from the database to the interface.
+
+Previously, I spent a year as a student developer at **Struct A/S**.
+
+### Selected projects
+
+**[WoW Item Pricer](https://github.com/Turtle-dev3/WoWItemPricer)**  
+Tracks World of Warcraft commodity prices through the Blizzard API, builds a price history in CSV, and generates charts. Scheduled runs use GitHub Actions.
+
+**Tone API**  
+A REST API for tone-of-voice analysis, with a dashboard for API keys, credits, and usage. Built with Next.js and Prisma. Private source.
+
+**[n8n-nodes-toneapi](https://github.com/Turtle-dev3/n8n-nodes-toneapi)**  
+An n8n community node for tone analysis, emotion detection, response evaluation, and text rewriting through Tone API.
+
+### Toolkit
+
+```text
+Languages    Python / TypeScript / Java / C# / Haskell
+Web & data   Next.js / Prisma / REST APIs
+Automation   n8n / GitHub Actions
+```
+
+### Experience
+
+| Period | Role | Team |
+| :--- | :--- | :--- |
+| 2025–2026 · 1 year | Student Developer | Struct A/S |
+| Sep 2023–Jul 2024 | Shift Leader | McDonald's |
+
+### Education
+
+**BSc Artificial Intelligence** · University of Southern Denmark  
+2024–present · 5th semester
 
 ---
 
-<p align="center">
-  <sub>Odense, Denmark · noahnyholmb@gmail.com</sub>
-</p>
+<sub>Odense, Denmark · Updated September 2026</sub>
